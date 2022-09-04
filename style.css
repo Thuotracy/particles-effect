@@ -18,3 +18,9 @@ section{
     height: 100%;
     object-fit: contain;
 }
+
+#particles-js{
+    position: relative;
+    height: 100vh;
+    background: #fff;
+}
